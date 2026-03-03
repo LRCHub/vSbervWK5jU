@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "砂の城",
+  "base_artist": "えんぷてい",
+  "createdAt": "2026-03-03T16:22:56.521858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "砂の城",
+      "artist": "angela",
+      "has_synced": false,
+      "path": "select/01_砂の城_angela.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "砂の城",
+      "artist": "中孝介",
+      "has_synced": true,
+      "path": "select/02_砂の城_中孝介.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "砂の城",
+      "artist": "Misia",
+      "has_synced": true,
+      "path": "select/03_砂の城_Misia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "砂の城",
+      "artist": "Yuki Saito",
+      "has_synced": true,
+      "path": "select/04_砂の城_Yuki_Saito.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "砂の城",
+      "artist": "葉月ゆら",
+      "has_synced": false,
+      "path": "select/05_砂の城_葉月ゆら.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "砂の城",
+      "artist": "Yuki Saito",
+      "has_synced": false,
+      "path": "select/06_砂の城_Yuki_Saito.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "砂の城 -The Castle of Sand-",
+      "artist": "I've",
+      "has_synced": true,
+      "path": "select/07_砂の城_-The_Castle_of_Sand-_I've.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "砂の城 –The Castle of Sand–",
+      "artist": "I’ve",
+      "has_synced": true,
+      "path": "select/08_砂の城_–The_Castle_of_Sand–_I’ve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "砂の城 -The Castle of Sand-",
+      "artist": "I’ve",
+      "has_synced": true,
+      "path": "select/09_砂の城_-The_Castle_of_Sand-_I’ve.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "砂の城",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/10_砂の城_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "砂の城",
+      "artist": "えんぷてい",
+      "has_synced": false,
+      "path": "select/pl_01_砂の城_えんぷてい.txt"
+    }
+  ]
+}
